@@ -1,2 +1,8 @@
 # deep-siRNA
-CellSignal: Disentangling biological signal from experimental noise in cellular images
+
+Recursion Cellular Image Classification Competition
+
+
+## Resources:
+
+- Quick Visualisation and Exploratory Data Analysis:- https://www.kaggle.com/jesucristo/quick-visualization-eda
