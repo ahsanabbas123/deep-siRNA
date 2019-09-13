@@ -16,3 +16,4 @@ Recursion Cellular Image Classification Competition
 - Quick Visualisation and Exploratory Data Analysis: https://www.kaggle.com/jesucristo/quick-visualization-eda
 - https://www.kaggle.com/apap950419/visualizing-batch-effects-with-t-sne
 - https://arxiv.org/pdf/1812.06499v4.pdf : HoVer Net, Code : https://github.com/vqdang/hover_net
+- https://github.com/princethewinner/FiRE/blob/master/R/FiRE/src/FiRE.h  : FIRE C++ Implementation
