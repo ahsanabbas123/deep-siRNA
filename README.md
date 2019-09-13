@@ -10,6 +10,7 @@ Recursion Cellular Image Classification Competition
 - [ ] Machine learning algorithms (Elastic net, logistic regression, SVM and random forest). Perform feature selection or derive latent features from the images and use as variables in the model (Rintu)
 - [ ] Deep learning or reinforcement learning or GAN algorithms (Kartik, Ishita, Ahsan, Anmol)
 - [ ] Make env for Hover-Net
+- [ ] FIRE Implement
 
 ## Resources:
 
